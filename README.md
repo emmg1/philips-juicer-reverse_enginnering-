@@ -7,17 +7,17 @@ to enable you to process a broad variety of ingredients and a wide range of reci
 ## General overview
 1. Pusher with pre-clean function
 2. Berry funnel (HR1837/HR1833 only)
-3 Feeding tube
-4 Lid
-5 Filter
-6 Juice collector with spout
-7 Integrated pulp container
-8 Safety clamps
-9 Control knob
-10 Cord storage compartment
-11 Driving shaft
-12 Motor unit
-13 Juice jug
+3. Feeding tube
+4. Lid
+5. Filter
+6. Juice collector with spout
+7. Integrated pulp container
+8. Safety clamps
+9. Control knob
+10. Cord storage compartment
+11. Driving shaft
+12. Motor unit
+13. Juice jug
 
 - <img width="460" height="701" alt="image" src="https://github.com/user-attachments/assets/b0115462-8b21-4ad8-be66-ef840cdd1078" />
 
