@@ -26,16 +26,3 @@ to enable you to process a wide variety of ingredients and a wide range of recip
 13. Juice jug
 <img width="460" height="701" alt="image" src="https://github.com/user-attachments/assets/b0115462-8b21-4ad8-be66-ef840cdd1078" />
 
-
-
-
-
-## Skills Demonstrated
-- CAD modelling
-- Technical drawings
-- Reverse engineering
-- Injection moulded design
-- DFM/DFA
-- Materials selection
-- Product documentation
-
